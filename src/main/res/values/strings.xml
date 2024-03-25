@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Renato_Menu</string>
+
+    <string name="descricao">O curso pertence ao Eixo Tecnológico de Informação e Comunicação, de acordo com o Catálogo Nacional dos Cursos Superiores de Tecnologia (Portaria MEC no 413, de 11 de maio de
+2016). Esse curso visa formar um profissional dinâmico, capaz de projetar, consolidar e analisar páginas para sites de Internet e intranets, sistemas de comércio eletrônico e aplicativos para
+plataformas móveis para a Internet. Além disso, o profissional deve estar capacitado a avaliar, especificar, selecionar e utilizar metodologias e ferramentas adequadas para o desenvolvimento das
+aplicações.</string>
+
+    <string-array name="primeiro_Array">
+        <item>Fundamentos de Redes de Computadores</item>
+        <item>Tendências Tecnológicas para o Mercado de TI</item>
+        <item>Introdução a Computação</item>
+        <item>Informática Instrumental</item>
+        <item>Introdução à Lógica</item>
+        <item>Inglês Técnico</item>
+    </string-array>
+
+    <string-array name="segundo_Array">
+        <item>Fundamentos e Projeto de Banco de Dados</item>
+        <item>Análise de Sistemas</item>
+        <item>Introdução à Programação</item>
+        <item>Programação Orientada a Objetos</item>
+        <item>Programação Básica para Web</item>
+    </string-array>
+
+    <string-array name="terceiro_Array">
+        <item>Introdução à Conectividade</item>
+        <item>Gerenciamento de Dados para Web</item>
+        <item>Programação para Banco de Dados</item>
+        <item>Administração de Sistemas Proprietários</item>
+        <item>Programação para Web Designers</item>
+        <item>Programação para Web I</item>
+    </string-array>
+
+    <string-array name="quarto_Array">
+        <item>Sistemas Distribuídos e SOA</item>
+        <item>Projeto de Sistemas</item>
+        <item>Testes de Software</item>
+        <item>Projeto de Interface Web</item>
+        <item>Programação para Web II</item>
+        <item>Eletiva</item>
+    </string-array>
+
+    <string-array name="quinto_Array">
+        <item>Segurança de Sistemas</item>
+        <item>Infraestrutura para Sistemas Web</item>
+        <item>Administração de Banco de Dados</item>
+        <item>Novas Tecnologias em BD</item>
+        <item>IProgramação para Dispositivos Móveis I</item>
+        <item>Metodologias de Desenvolvimento</item>
+    </string-array>
+
+    <string-array name="sexto_Array">
+        <item>Novas Tecnologias em Desenvolvimento para Web</item>
+        <item>Gerência de Configuração</item>
+        <item>Padrões de Projeto</item>
+        <item>Programação para Dispositivos Móveis II</item>
+    </string-array>
+
+</resources>
